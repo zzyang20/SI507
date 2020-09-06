@@ -3,5 +3,4 @@
 
 
 Course Work:
-    1. Homeworks
-    2. Final Project
+    1. Final Project
