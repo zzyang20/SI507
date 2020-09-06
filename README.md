@@ -4,4 +4,4 @@ The purpose of this course is to build upon the foundation provided by 506 and p
 https://www.si.umich.edu/programs/courses?title=507
 
 Course Work:
-    1. Final Project
+    - 1. Final Project: Built an interactive interface with Flask by presenting New York Stock Exchange data scraped and crawled from a website named eoddata
